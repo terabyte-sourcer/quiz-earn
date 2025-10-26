@@ -20,7 +20,7 @@
   QuizApp is a free and open-source quiz application that lets you play fully customized quizzes right in the browser.
 </p>
 
-![QuizApp](https://github.com/SafdarJamal/quiz-app/assets/48409548/22e9696d-bab4-4aa5-a028-4a4f9ce71777)
+![QuizApp](https://github.com/terabyte-sourcer/quiz-earn/assets/48409548/22e9696d-bab4-4aa5-a028-4a4f9ce71777)
 
 ## Built with
 
@@ -64,8 +64,8 @@ In this project, you can run the following scripts:
 
 ## Credits
 
-QuizApp is built and maintained by [Safdar Jamal](https://safdarjamal.github.io).
+QuizApp is built and maintained by [Terabyte Sourcer](https://terabyte-sourcer).
 
 ## License
 
-Code released under the [MIT license](https://github.com/SafdarJamal/quiz-app/blob/master/LICENSE).
+Code released under the [MIT license](https://github.com/terabyte-sourcer/quiz-earn/blob/master/LICENSE).
