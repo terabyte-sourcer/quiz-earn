@@ -1,18 +1,18 @@
 <h1 align="center">
-  <a href="https://safdarjamal.github.io/quiz-app/">
+  <a href="https://terabyte-sourcer.github.io/quiz-earn/">
     QuizApp
   </a>
 </h1>
 
 <p align="center">
-  <a href="https://github.com/SafdarJamal/quiz-app/actions?query=workflow%3A%22Node.js+CI%22">
-    <img src="https://github.com/SafdarJamal/quiz-app/workflows/Node.js%20CI/badge.svg" alt="Node.js CI" />
+  <a href="https://github.com/terabyte-sourcer/quiz-earn/actions?query=workflow%3A%22Node.js+CI%22">
+    <img src="https://github.com/terabyte-sourcer/quiz-earn/workflows/Node.js%20CI/badge.svg" alt="Node.js CI" />
   </a>
-  <a href="https://github.com/SafdarJamal/quiz-app/releases">
-    <img src="https://img.shields.io/github/v/release/SafdarJamal/quiz-app" alt="GitHub Release (latest by date)" />
+  <a href="https://github.com/terabyte-sourcer/quiz-earn/releases">
+    <img src="https://img.shields.io/github/v/release/terabyte-sourcer/quiz-earn" alt="GitHub Release (latest by date)" />
   </a>
-  <a href="https://github.com/SafdarJamal/quiz-app/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/SafdarJamal/quiz-app" alt="License" />
+  <a href="https://github.com/terabyte-sourcer/quiz-earn/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/terabyte-sourcer/quiz-earn" alt="License" />
   </a>
 </p>
 
@@ -33,8 +33,8 @@
 To get a local copy of the code, clone it using git:
 
 ```
-git clone https://github.com/SafdarJamal/quiz-app.git
-cd quiz-app
+git clone https://github.com/terabyte-sourcer/quiz-earn.git
+cd quiz-earn
 ```
 
 Install dependencies:
